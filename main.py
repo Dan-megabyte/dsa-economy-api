@@ -57,7 +57,7 @@ for source in finalresult:
         text += "    "
         text += item
         text += ": "
-        text += str(finalresult[source][item])
+        text += str(finalresult[source][item]*100)
         text += "\n"
 with open("output.txt", "w+") as f:
     f.write(text)
