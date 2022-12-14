@@ -18,14 +18,19 @@ itemDict[225] = "manual turret"
 
 results = []
 
-datestr = str(2022)+"_"+str(11)+"_"+str(23)+"/"
+datestr = str(2022)+"_"+str(11)+"_"+str(24)+"/"
 summaryurl = prefix+instance+mid+datestr+"summary.json"
 logurl = prefix+instance+mid+datestr+"log.json.gz"
+shipurl = prefix+instance+mid+datestr+"ships.json.gz"
 
 print("unzipping")
 with gzip.open(requests.get(logurl, stream=True).raw, "rt") as f:
     print("unpacking json")
     logjson = json.load(f)
+
+with gzip.open(requests.get(shipurl, stream=True).raw, "rt") as f:
+    print("unpacking json")
+    shipjson = json.load(f)
 
 
 tot = len(logjson)
