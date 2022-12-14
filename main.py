@@ -19,6 +19,7 @@ results = []
 
 date -= datetime.timedelta(days=1)
 while date < enddate:
+    print((enddate-date).days)
     date += datetime.timedelta(days=1)
     datestr = str(date.year)+"_"+str(date.month)+"_"+str(date.day)+"/"
     summaryurl = prefix+instance+mid+datestr+"summary.json"
