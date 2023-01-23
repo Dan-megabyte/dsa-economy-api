@@ -60,3 +60,4 @@ def updateDump(
                     filepath)
 if __name__ == "__main__":
     updateDump()
+    updateDump("test")
