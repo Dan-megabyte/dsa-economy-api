@@ -39,7 +39,7 @@ def saveLinkToFile(link, filepath):
         text = requests.get(link).text
     text = json.loads(text)
     with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(text, f)
+        json.dump(text, f, separators=(',', ':'), indent=None)
 def updateDump(
     instance:str="prod",
     dumpTypes:list=["summary", "log", "ships"], 
@@ -52,7 +52,7 @@ def updateDump(
         date = startdate
         date -= datetime.timedelta(days=1)
         while date < enddate:
-            print("Getting data {} : {} days left".format(dumpType, (enddate-date).days))
+            print("Getting data {} for {} : {} days left".format(dumpType, instance, (enddate-date).days))
             date += datetime.timedelta(days=1)
             datestr = str(date.year)+"_"+str(date.month)+"_"+str(date.day)
             filepath = os.path.join(cachedir,instance,dumpType,datestr+".json")
