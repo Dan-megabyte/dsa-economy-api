@@ -33,11 +33,13 @@ mkdir(cachedir + "/test/ships")
 
 def saveLinkToFile(link, filepath):
     text = requests.get(link).text
-    if link[:-3] == ".gz":
-        text = gzip.decompress(text)
+    if link[-3:] == ".gz":
+        text = gzip.decompress(requests.get(link).content)
+    elif link[-5:] == ".json":
+        text = requests.get(link).text
+    text = json.loads(text)
     with open(filepath, "w", encoding="utf-8") as f:
-        f.write(text)
-
+        json.dump(text, f)
 def updateDump(
     instance:str="prod",
     dumpTypes:list=["summary", "log", "ships"], 
@@ -58,6 +60,9 @@ def updateDump(
                 saveLinkToFile(
                     prefix+instance+mid+datestr+"/"+dumpType+dumpTypeExtensions[dumpType],
                     filepath)
+
+#def getFromCache(instance:str="prod", dumpType):
+
 if __name__ == "__main__":
     updateDump()
     updateDump("test")
