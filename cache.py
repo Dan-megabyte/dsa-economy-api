@@ -62,7 +62,7 @@ def updateDump(
                     prefix+instance+mid+datestr+"/"+dumpType+dumpTypeExtensions[dumpType],
                     filepath)
                     
-def getFromCache(dumpType:str, instance:str="prod", date:datetime.date=datetime.datetime.now().date):
+def getFromCache(dumpType:str, instance:str="prod", date:datetime.date=datetime.date.today()):
     datestr = str(date.year)+"_"+str(date.month)+"_"+str(date.day)
     filepath = os.path.join(cachedir, instance, dumpType, datestr+".json")
     if not os.path.exists(filepath):
@@ -70,7 +70,7 @@ def getFromCache(dumpType:str, instance:str="prod", date:datetime.date=datetime.
     with open(filepath, encoding="utf-8") as f:
         return json.load(f)
 
-def getSchema(instance:str="prod"):
+def getSchema(instance:str="prod") -> list:
     filepath = os.path.join(cachedir, instance, "item_schema.json")
     with open(filepath, encoding="utf-8") as f:
         return json.load(f)
