@@ -44,7 +44,7 @@ def updateDump(
     instance:str="prod",
     dumpTypes:list=["summary", "log", "ships"], 
     startdate:datetime.date=datetime.date(2022, 11, 23), 
-    enddate:datetime.date=datetime.date.today()):
+    enddate:datetime.date=datetime.date.today()) -> None:
     saveLinkToFile(
         prefix + instance + mid + "item_schema.json",
         os.path.join(cachedir, instance, "item_schema.json"))
@@ -60,8 +60,13 @@ def updateDump(
                 saveLinkToFile(
                     prefix+instance+mid+datestr+"/"+dumpType+dumpTypeExtensions[dumpType],
                     filepath)
-
-#def getFromCache(instance:str="prod", dumpType):
+"""
+def getFromCache(dumpType:str, instance:str="prod", date:datetime.date=datetime.datetime.now().date):
+    datestr = str(date.year)+"_"+str(date.month)+"_"+str(date.day)
+    filepath = os.path.join(cachedir, instance, dumpType, datestr+".json")
+    if not os.path.exists(filepath):
+        updateDump(instance, [dumpType], date, date)
+"""
 
 if __name__ == "__main__":
     updateDump()
