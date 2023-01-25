@@ -6,6 +6,7 @@ import os
 
 prefix = "https://pub.drednot.io/"
 mid = "/econ/"
+startDate = datetime.date(2022, 11, 23)
 cachedir = "cache"
 
 dumpTypeExtensions = {
@@ -43,7 +44,7 @@ def saveLinkToFile(link, filepath):
 def updateDump(
     instance:str="prod",
     dumpTypes:list=["summary", "log", "ships"], 
-    startdate:datetime.date=datetime.date(2022, 11, 23), 
+    startdate:datetime.date=startDate, 
     enddate:datetime.date=datetime.date.today()) -> None:
     saveLinkToFile(
         prefix + instance + mid + "item_schema.json",
