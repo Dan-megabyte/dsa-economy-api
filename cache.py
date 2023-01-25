@@ -69,7 +69,7 @@ def getFromCache(dumpType:str, instance:str="prod", date:datetime.date=datetime.
     with open(filepath, encoding="utf-8") as f:
         return json.load(f)
 
-def getSummary(instance:str="prod"):
+def getSchema(instance:str="prod"):
     filepath = os.path.join(cachedir, instance, "item_schema.json")
     with open(filepath, encoding="utf-8") as f:
         return json.load(f)
