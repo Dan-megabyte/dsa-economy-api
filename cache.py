@@ -60,13 +60,14 @@ def updateDump(
                 saveLinkToFile(
                     prefix+instance+mid+datestr+"/"+dumpType+dumpTypeExtensions[dumpType],
                     filepath)
-"""
+                    
 def getFromCache(dumpType:str, instance:str="prod", date:datetime.date=datetime.datetime.now().date):
     datestr = str(date.year)+"_"+str(date.month)+"_"+str(date.day)
     filepath = os.path.join(cachedir, instance, dumpType, datestr+".json")
     if not os.path.exists(filepath):
         updateDump(instance, [dumpType], date, date)
-"""
+    with open(filepath, encoding="utf-8") as f:
+        return json.load(f)
 
 if __name__ == "__main__":
     updateDump()
