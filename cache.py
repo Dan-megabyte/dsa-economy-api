@@ -73,8 +73,14 @@ def getFromCache(dumpType:str, instance:str="prod", date:datetime.date=datetime.
 def getSchema(instance:str="prod") -> list:
     filepath = os.path.join(cachedir, instance, "item_schema.json")
     with open(filepath, encoding="utf-8") as f:
-        return json.load(f)
+        schema = json.load(f)
+    with open("depreciateditems.json", encoding="utf-8") as f:
+        overwrites = json.load(f)
+    for overwrite in overwrites:
+        schema.append(overwrite)
+    return schema
 
 if __name__ == "__main__":
     updateDump()
     updateDump("test")
+    print(getSchema())
