@@ -1,5 +1,31 @@
 [
     {
-        
+        "id": 3,
+        "name": "Silica Crystals",
+        "desc": "Material. Used to produce glass and semiconductors.",
+        "img": "item/res_silica_crystals",
+        "rarity": 1,
+        "max_stack": 16
+    },
+    {
+        "id": 225,
+        "name": "Turret",
+        "desc": "Buildable. Attach it to an exterior wall.",
+        "img": "item/turret",
+        "rarity": 0,
+        "max_stack": 1,
+        "fab_recipe": {
+            "count": 1,
+            "time": 8,
+            "input": [
+                {
+                    "id": 1,
+                    "count": 8
+                }
+            ],
+            "fabs": [
+                "Machine"
+            ]
+        }
     }
 ]
