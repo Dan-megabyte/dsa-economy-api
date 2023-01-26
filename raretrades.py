@@ -49,6 +49,6 @@ for num in rareCounts:
     rareCount += num
 output += "\n Average amount of rares traded per day: {}".format(rareCount/(endDate-startDate).days)
 
-with open("output.txt", "w") as f:
+with open("output.txt", "w", encoding="utf-8") as f:
     f.write(output)
 print("done!")
