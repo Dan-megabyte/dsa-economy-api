@@ -9,3 +9,9 @@ def getShipInfo(hex:str, day:datetime.date, repeat:int=1):
     if repeat > 0:
         return getShipInfo(hex, day+datetime.timedelta(1), repeat-1)
     raise NameError("Couldn't find ship {} on day {}, nor the next {} days".format(hex, day, repeat-1))
+
+def dateRange(startDate:datetime.date=cache.startDate, endDate:datetime.date=datetime.date.today()):
+    for dayCount in range((endDate-startDate).days):
+        day = startDate+datetime.timedelta(dayCount)
+        daysLeft = (endDate-startDate).days-dayCount
+        yield (day, daysLeft)
