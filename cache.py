@@ -74,7 +74,7 @@ def getSchema(instance:str="prod") -> list:
     filepath = os.path.join(cachedir, instance, "item_schema.json")
     with open(filepath, encoding="utf-8") as f:
         schema = json.load(f)
-    with open("depreciateditems.json", encoding="utf-8") as f:
+    with open("depreciated_items.json", encoding="utf-8") as f:
         overwrites = json.load(f)
     for overwrite in overwrites:
         schema.append(overwrite)
