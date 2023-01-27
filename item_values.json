@@ -1,4 +1,26 @@
 {
-    "Iron":                 1,
-    "Flux Crystals":      100
+    "Iron":                          1,
+    "Explosives":                    1,
+    "Hyper Rubber":                 25,
+    "Flux Crystals":                10,
+    "Volleyball":                  200,
+    "Golden Volleyball":         10000,
+    "Basketball":                  200,
+    "Golden Basketball":         10000,
+    "Beach Ball":                  200,
+    "Football":                    200,
+    "Golden Item Shredder":      10000,
+    "Handheld Pusher":             320,
+    "Ship Shield Booster":           2,
+    "Backpack":                    250,
+    "Speed Skates":                160,
+    "Booster Boots":               160,
+    "Launcher Gauntlets":          160,
+    "Construction Gauntlets":      320,
+    "Rocket Pack":                 320,
+    "Hover Pack":                  320,
+    "Manifest Scanner":            300,
+    "BoM Scanner":                 300,
+    "Bug Hunter Trophy":         10000,
+    "Silver Null Trophy":         8000
 }
