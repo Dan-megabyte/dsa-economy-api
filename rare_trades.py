@@ -1,7 +1,7 @@
 import cache
 import datetime
 
-import functions as func
+import helper_functions as func
 
 cache.updateDump()
 
