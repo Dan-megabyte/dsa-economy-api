@@ -2,6 +2,8 @@ import json
 import requests
 import datetime
 
+import cache
+
 prefix = "https://pub.drednot.io/"
 mid = "/econ/"
 instance = "prod"
@@ -9,11 +11,12 @@ itemschemaurl = prefix+instance+mid+"item_schema.json"
 date = datetime.date(2022, 11, 23)
 enddate = datetime.date.today()# - datetime.timedelta(days=1)
 
-items = json.loads(requests.get(itemschemaurl).text)
+items = cache.getSchema()
 
 itemDict = {}
 for item in items:
     itemDict[item["id"]] = item["name"]
+del items, item
 
 results = []
 
@@ -21,11 +24,8 @@ date -= datetime.timedelta(days=1)
 while date < enddate:
     print((enddate-date).days)
     date += datetime.timedelta(days=1)
-    datestr = str(date.year)+"_"+str(date.month)+"_"+str(date.day)+"/"
-    summaryurl = prefix+instance+mid+datestr+"summary.json"
 
-
-    summary = json.loads(requests.get(summaryurl).text)
+    summary = cache.getFromCache("summary", "prod", date)
 
     result = {}
     for item in summary["items_new"]:
