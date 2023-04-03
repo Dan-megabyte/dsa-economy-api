@@ -36,7 +36,6 @@ for hex in ships:
         value += items[id] * item_values.get(id, 0)
     ships[hex]["value"] = value
 
-type(ships)
 print("Sorting...")
 sorted =sorted(ships, key=lambda x: ships[x]["value"], reverse=True)
 
