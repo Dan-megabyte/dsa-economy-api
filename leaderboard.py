@@ -45,5 +45,5 @@ for hex in sorted[:500]:
     ship = ships[hex]
     output += "#{}: {} {} got {} points\n".format(sorted.index(hex)+1, hex, ship["name"], ship["value"])
 
-with open("output.txt", "w") as f:
+with open("output.txt", "w", encoding="utf-8") as f:
     f.write(output)
