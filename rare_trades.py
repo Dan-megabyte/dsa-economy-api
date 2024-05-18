@@ -19,31 +19,41 @@ for rare in ["Fabricator (Legacy, Packaged)", "Golden Item Shredder"]:
 startDate = cache.startDate
 endDate = datetime.date.today()
 
-
 output = ""
 
 rareCounts = []
 for dayCount in range((endDate-startDate).days):
     rareCount = 0
     day = startDate+datetime.timedelta(dayCount)
-    print("working, {} days left".format((endDate-startDate).days-dayCount))
-    for entry in cache.getFromCache("log", date=day):
-        if entry["item"] in rares:
-            rareCount += 1
-            src = entry["src"]
-            if src[-5:] == " hurt":
-                violent = "violently "
-                src = src[:-5]
-            else:
-                violent = ""
-            src = src[1:-1]
-            dst = entry["dst"][1:-1]
-            srcShip = func.getShipInfo(src, day)
-            dstShip = func.getShipInfo(dst, day)
-            date = str(day.day)+"/"+str(day.month)+"/"+str(day.year)
-            output += ("OMG! {} {} {}sent {} {} to {} {} on {}\n".format(src, srcShip["name"], violent, entry["count"], rares[entry["item"]], dst, dstShip["name"], date))
-    rareCounts.append(rareCount)
-
+    try:
+        print("working, {} days left".format((endDate-startDate).days-dayCount))
+        for entry in cache.getFromCache("log", date=day):
+            if entry["item"] in rares:
+                rareCount += 1
+                src = entry["src"]
+                if src[-5:] == " hurt":
+                    violent = "violently "
+                    src = src[:-5]
+                else:
+                    violent = ""
+                src = src[1:-1]
+                dst = entry["dst"][1:-1]
+                srcShip = func.getShipInfo(src, day)
+                dstShip = func.getShipInfo(dst, day)
+                date = str(day.day)+"/"+str(day.month)+"/"+str(day.year)
+                output += ("OMG! {} {} {}sent {} {} to {} {} on {}\n".format(src,
+                                                                             srcShip["name"],
+                                                                             violent,
+                                                                             entry["count"],
+                                                                             rares[entry["item"]], dst,
+                                                                             dstShip["name"], date))
+        rareCounts.append(rareCount)
+    except Exception as err:
+        print("An error occured:")
+        print(err)
+        print("On day:")
+        print(day)
+        print("Continuing...")
 rareCount = 0
 for num in rareCounts:
     rareCount += num

@@ -3,8 +3,8 @@ import json
 import cache
 import helper_functions as helperfunc
 
-with open("item_values.json") as f:
-    values = json.load(f)
+from item_values import itemValues as values
+
 schema = cache.getSchema()
 item_values = {}
 for name in values:

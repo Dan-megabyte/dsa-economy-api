@@ -1,0 +1,501 @@
+Ship Stats:
+#1: B1CFC I <3 Balls got 16736000 points
+#2: F78CB 🐠 Bubblenest 🐠 got 15225300 points
+#3: 94DA6 svart gull bleiv stjoli got 8603400 points
+#4: A2D3A8 Storage Porl got 8253675 points
+#5: 9B3D 👑Crown👑 got 5921445 points
+#6: 422B60 Greenbot loot V2 got 3914758 points
+#7: E2418 Ничу Нинаю got 3752457 points
+#8: 32E8 🚀Matyr🚀cring got 3511600 points
+#9: 29E0E SMS Pelican 2.2 got 3464321 points
+#10: 03B81 🔰 NetherRealm 🔰 got 3400163 points
+#11: 0E7E0 [ⓈⓄⓍ] what do with gren cristal got 3356476 points
+#12: E896DA いずも　Vessels owned only by mon.JP got 3019037 points
+#13: 1ACEB9 Best Storage got 2980107 points
+#14: 6F48C9 ᴇᴘɪᴄ ɪɴᴄ                     🌽  got 2862730 points
+#15: 502E5 🐅🌑Eternal Sunrise - SAF got 2703108 points
+#16: 87D7 🐠Swany🐅Wet⚔️ DredLifeCrisisᶠᵖ³ got 2514750 points
+#17: 3EC3CC Greenbot Loot got 2299160 points
+#18: 105B01 🔁EvilGod Stuff III🔁 got 2283012 points
+#19: 9A0CD stg got 2142584 points
+#20: 57C5E1 👻Склад👻 got 2138480 points
+#21: 22204 🐅SkySea's Storage⚜️ got 2101629 points
+#22: 85EC8B demtoe ureslf noah got 2050868 points
+#23: 600A9 quantumleap  (se  habla espanol) got 2035650 points
+#24: 4A2EAE UO Mothership got 1848310 points
+#25: 77C97 GM Black Lotus ⚜️ got 1826596 points
+#26: D7454 Foreg v2 got 1818370 points
+#27: 8A719 balls got 1809300 points
+#28: DDCD85 💣【﻿Ｔｏｗｉｅｓ】💣 got 1799890 points
+#29: 5DC9E7 Dirt Realm got 1792427 points
+#30: 81D54E e got 1762679 points
+#31: 8EE9A8 👑 | 𝐀𝐮𝐭𝐨 𝐂𝐨𝐫𝐩 | 👑 got 1755075 points
+#32: FBC78  ☁️꧁𒆜 Obsidian 𒆜꧂☁️  got 1719139 points
+#33: 89AEB Dragon Scale III got 1691566 points
+#34: 8A9DC6 ♞𝕮𝖍𝖊𝖈𝖐𝖒8♞ got 1674700 points
+#35: 3F39D1 🐅❤️ got 1635417 points
+#36: 996699 💥Nether industries💥 got 1605097 points
+#37: 7E1E2A4 Random Junk got 1581060 points
+#38: 28F2AF Storage 3fp got 1559336 points
+#39: C76AB 💢Blue Moon storage💢 got 1553158 points
+#40: F3C0C5 🅰🅻🅼🅰🅲🅴🅽🅰🅼🅸🅴🅽🆃🅾 got 1546032 points
+#41: AC7CE металл/порох+ ammo-8 got 1544709 points
+#42: 79E5CD B . I . C got 1488140 points
+#43: 023C8B ☆ 𝕿𝖍𝖊 𝕽𝖔𝖞𝖆𝖑 𝕶𝖎𝖓𝖌 got 1474835 points
+#44: E8EF8 MEOW THE FUCKER - COCO STORAGE got 1473669 points
+#45: 15D55 Crabnab ! got 1466933 points
+#46: 3664BA PH-otato PHub(SAF)⎈[segs] got 1460325 points
+#47: 5D9B3 DaReals's crib ᶠᵖ ³  got 1459262 points
+#48: 9207D 🏛️Distribution Flux Dump 1🏛️ got 1450000 points
+#49: CABD3 🐉 DRAGONITE 🐉 max storage got 1442960 points
+#50: 95D3 COGG!!! COGG +!! COGOGG!!!!! got 1430192 points
+#51: 8A773D the allspark got 1428026 points
+#52: 76DABE ᴇᴘɪᴄ ɪɴᴄ 4🌽 got 1424800 points
+#53: 75C41 Swiss Armed Force Storage - SAF got 1409245 points
+#54: 3D24D FedX | James4562 Storage got 1404340 points
+#55: 3924E Melon stor got 1401514 points
+#56: C049C Chenjesu got 1366941 points
+#57: 302B7 〘The Tavern™〙 got 1346395 points
+#58: B7E9F 💣Parzival&BOBDABOSS/(t_t)- SAF got 1339469 points
+#59: 44D24 ᴇᴘɪᴄ ɪɴᴄ  2 got 1329607 points
+#60: 17FAC hehehes spinal cord  got 1295980 points
+#61: 9A1CD artur,damian,kuba,michal storage got 1293498 points
+#62: 69AFCB ☣ИС-44☣ got 1287169 points
+#63: 4C74DB Loot strg got 1281167 points
+#64: 78AD5F 🦅卂ㄥㄒ乇尺尺卂🦅 got 1251243 points
+#65: 12EDBB PES - Quantum Reef 🐅🐠 got 1222949 points
+#66: 20D31 This Storage 50 Dollar(gs-leg) got 1215269 points
+#67: A52EBE  ⏰ The Nerd Machine got 1202410 points
+#68: 12C63 🔰|Guardian|🔰 got 1183864 points
+#69: E40C0 🏛️ Point Moment.exe By Epig 🏛️ got 1181685 points
+#70: 5C1BD1 RAKO got 1165550 points
+#71: 132B50 BigBlackBalls  got 1157278 points
+#72: EAEA4 RCD got 1145000 points
+#73: CBC27 yami ඞ.canon 16 got 1143793 points
+#74: 0E1CA MATS got 1135964 points
+#75: 21963 MEGA DEMON got 1130336 points
+#76: 12D36 Please Bank got 1113567 points
+#77: B47BA9 no got 1103189 points
+#78: D69A5F 𝐁𝐀𝐗𝐀  got 1100566 points
+#79: 1B823 🍺Iker's temporary mats [BGI]SAF got 1084882 points
+#80: 07CF4 P&T Storage got 1083417 points
+#81: 7773BB 🐱 Stray industries 🐱 got 1083348 points
+#82: C2FCD ＡＭＰＥＲＥ １.１.5ｖ  ᶠᵖ³  got 1078836 points
+#83: 2B25E TH's FP3 Storage got 1073945 points
+#84: 3CEED FED | Rubber Can got 1068445 points
+#85: 19B4EF 👻Склад Капитана👻 got 1057372 points
+#86: D64E0A LONG DONG'S FLOOOX got 1056214 points
+#87: F1067B ＳＴＲＯＮＧＥＳＴ ＳＴＯＲＡＧＥ  🏴‍☠️🦜 got 1006411 points
+#88: ABB3BE ⚡Pikachu got 1002577 points
+#89: D8D45 of the yes got 989324 points
+#90: B377D 💣Roadman Shack💣  got 985203 points
+#91: 899D3 free port lll got 973666 points
+#92: 97BF08 🏛️ Mat Meditation 🏛️ got 970139 points
+#93: 51515 ⏰ 🥩 The Steaks v5 got 958308 points
+#94: 3D5937 ARCHIVE  got 955595 points
+#95: 8FE9B Holy Storage 🛐 got 953304 points
+#96: EB973 Itzjutin got 953288 points
+#97: A3146 flux and black balls got 945092 points
+#98: 30EC43  Bangko_Central_Ng_Pilipinas got 936886 points
+#99: 9C76D ☣☠👻ᵈᵘⁿᵍᵉᵒⁿ ᵐᵃˢᵗᵉʳ👻☠☣ got 924802 points
+#100: 47D09 💩Party of oriental People💩 got 922177 points
+#101: 3FD6E0 👾MetalReserve👾 got 911141 points
+#102: 6E8AC7 Loader and Flux got 907231 points
+#103: BC96FF Free Storage/Trading Mk. IV got 895370 points
+#104: 17D438 Cheerful-Fish got 894985 points
+#105: A15B4 🍯Honeypot🐝 got 890498 points
+#106: 73748 ℐ-20 ᴍɪɢʜᴛʏ ᴅʀᴀɢᴏɴ got 879126 points
+#107: 627EF0 Mafia Industries got 876237 points
+#108: DAC8E SAF ᴘᴇɴᴅʀᴀɢᴏɴ 4 got 873757 points
+#109: E8BE5D 🌑Nimrod got 864665 points
+#110: 27A0F2 синестра got 861132 points
+#111: CE4EE8 Сектор Газа ⛽ got 856820 points
+#112: DEB381 therion's trading and storage got 836601 points
+#113: DEA0C scaners got 825000 points
+#114: 9225D0 🥔 Chickadeez Matz 🥔 got 820930 points
+#115: 7DE9877 Ark's Stock Exchange  got 820526 points
+#116: 64C2C 𝘗𝘶𝘳𝘰'𝘴 𝘗𝘢𝘳𝘢𝘥𝘪𝘴𝘦 got 817907 points
+#117: D60BD0 base and trade got 816341 points
+#118: 338B9 🐅🍞 Panem Megastorage 🐅 got 809108 points
+#119: 5703C8C making storages got 805983 points
+#120: 0D397 🐝Hornet's Nest ᶠᵖ ³🐝 got 805194 points
+#121: 54022 👑 arceus storage 👑 got 801794 points
+#122: 7A3F4 ⚜️| Undead=lilbonfriedscrub got 799691 points
+#123: B8898 R3G3N an az:It's not a BANK got 787940 points
+#124: 1EB56 𝓣𝓔𝓡𝓡𝓐𝓡𝓘𝓤𝓜 - SAF got 777549 points
+#125: DB628D NEVER ENDING BOREDOM got 777226 points
+#126: AAF81 𝓥𝓮𝓻𝓽𝓲𝓰𝓸 got 774452 points
+#127: F47E6 ᧁ᥅ꫀꫀꪀ ꪖꪀᦔ ᥇ꪶꪊꫀ ᦔꫀ᭙ got 765014 points
+#128: E0133 resicladora got 763250 points
+#129: 79638 👻:3 звёздная пыль на тапках🐅 got 763065 points
+#130: E924DA 🏛️ Princess of the Night (YB) got 762660 points
+#131: 68DEB6 Storage 2 got 757732 points
+#132: 0A803 🍃|White-Out got 756275 points
+#133: 5AAA7 🍯HoneyBalls🐝 got 752320 points
+#134: 6907DE Storage got 751621 points
+#135: 4C1C67 sᴛᴏ-ʀᴀɢᴇ🌑 got 750341 points
+#136: 6ECDAD 👻𝕱𝖎𝕽𝖊 𝕭𝖑𝕺𝖔𝕸🔥 got 745504 points
+#137: 807047 Mr Beats Storage got 745295 points
+#138: 093F65 I need a clan :/ got 738463 points
+#139: 561F5 Pryluky got 737878 points
+#140: CF126F 👑 | Outpost 13 got 731579 points
+#141: 560BF9 𝓢𝓐𝓕 - 𝕿𝖗𝖎𝖒𝖎𝖓𝖌𝖙0𝖓 got 729959 points
+#142: 90DDF6 Diamant's storage got 729929 points
+#143: 5A74 GЯΛПD GΛᄂΛᄃƬIᄃ VӨYΛGΣ got 725405 points
+#144: E5462 BULK storage 5 got 724047 points
+#145: 42AB2 🐅☾★ Ne Mutlu Türküm Diyene ☾★🐅 got 721605 points
+#146: 863AD5 bac after months got 721340 points
+#147: B656E Storage got 720378 points
+#148: 1A8F9 storage  got 718688 points
+#149: 64704 🔪распределитель🔪 got 718143 points
+#150: C496C 𝓜𝓸𝓷𝓼𝓽𝓻𝓐𝓓 - 𝓢𝓽𝓸𝓻 got 706487 points
+#151: 799D6C склад spamtona got 706263 points
+#152: A82DD El Vendrell got 703960 points
+#153: B0B76E Patos Fshat got 703200 points
+#154: D7BEB7 restored-D7BEB7 got 700531 points
+#155: 49E4 Einstein's Storage - SAF got 692552 points
+#156: 67E71D ALMACENAMIENTO DE FLUX got 689150 points
+#157: 668C77 🐅New storage?🐅 got 687491 points
+#158: 5C7361 🅰🅻🅼🅰🅲🅴🅽🅰🅼🅸🅴🅽🆃🅾 got 686637 points
+#159: 2E3F8 🥊𝘈𝘮𝘢𝘻𝘰𝘯 𝘏𝘘🥊 got 686586 points
+#160: 85465 Back ? got 682409 points
+#161: EF6AF8 Just trying to make a storage :D got 682215 points
+#162: 02B09 🌧️Rain🌧️ got 681354 points
+#163: 222D16 Flax Strage got 677125 points
+#164: 93419 📀𝓖𝓸𝓵𝓭𝓮𝓷 𝓢𝓽𝓻𝓮𝓪𝓶📀 got 676249 points
+#165: D7A87 🔱 | Weebosheek Storage ⁂ got 676211 points
+#166: C927F5 💚| Captain Moose | 💚 got 674434 points
+#167: 65ACF 🦆 Alkwin & Tag Team🔹🔶 got 674059 points
+#168: E033B 1 got 673535 points
+#169: F7FFF STORAGE ADAM A MIŠA a Mara got 672838 points
+#170: 4B139 Нью-стордже | HR got 663237 points
+#171: E2792B Bunker master got 659102 points
+#172: EAFA50 🦒Obamnas Bunker🦒 got 647802 points
+#173: EF21B5 dumb bad storage got 646788 points
+#174: 9735C5 reveges main storage :) got 643484 points
+#175: CE68A storage got 641936 points
+#176: EA393A HR | Factory II got 639854 points
+#177: 7373E IceRealm got 639811 points
+#178: 4F2A7F Selling RC or other got 637187 points
+#179: 20FB7 трололо got 633193 points
+#180: B5C075 𝔴𝔬𝔩𝔣 got 628265 points
+#181: A51690 Flux & Rubber - SAF got 627440 points
+#182: A352B 🏛️ Your Mom Warehouse 🏛️ got 626015 points
+#183: 65156 ⏰ 𝓐𝓼𝓱 ⏰ got 625993 points
+#184: 3493 The Aviary got 625098 points
+#185: 74D83 ⚠️Separatist⚠️ got 625004 points
+#186: 4B2A16 ᴇᴘɪᴄ | 𝔻𝕖𝕞𝕖𝕥𝕖𝕣 got 624688 points
+#187: 1D750 prljav farms the bots lime got 624434 points
+#188: 6D7659 ✰WA | Venator I got 621985 points
+#189: CE062E 🍺Grimey Memorial got 618641 points
+#190: 830146 Склад | ToporOZG got 618571 points
+#191: 0BCB8 📦storage in ohio🚽 got 616019 points
+#192: 0AA92 🦮MONKE🦮 got 612038 points
+#193: 2888E 🌀 ɴᴀᴛᴜʀᴀʟ ʟᴇᴍᴏɴ ɢᴀʀᴅᴇɴ ©[🍋]  got 610276 points
+#194: 6D2FD CATS =^.^= storage #2 got 606218 points
+#195: 8B039D Jonah is back 💚 got 605596 points
+#196: 9AFE1 🏛️Thor's Storage🏛️ got 602666 points
+#197: EEA3C7 Storage Mk.VII got 598457 points
+#198: BB6AF 🏛️ HL Distribution 🏛️ got 594003 points
+#199: DBB13  P&T Factory got 592287 points
+#200: 3ECB97 ⌆ Explosives ⌆ got 592244 points
+#201: 3C4A87 Lockheed Martin got 591881 points
+#202: 72ECE WIP - Making a Public Recycler got 591404 points
+#203: 4C2BF 🐅 Storage V1 got 589979 points
+#204: A18D9 Balmora got 589532 points
+#205: 7702B2 SF | Склад "ненужного" got 587179 points
+#206: D56490 Sheesh got 585703 points
+#207: 4C1AF3 🏔️The Great Forage!🏔️ got 585527 points
+#208: 1C21B 🐅Boom Booms🐅 Mats got 584400 points
+#209: 29F7C Armans Second Storage got 583417 points
+#210: 989F Deep Space Astronuts got 580731 points
+#211: 9CAEFB 🎋 💖(❤´艸｀❤) 🎋 got 580660 points
+#212: 0135D Cap= 1000 flux got 577019 points
+#213: B9FFA 💜Zophie Storage💜 got 576192 points
+#214: C154E 🇷🇸Frosty Storage🇷🇸 got 573680 points
+#215: FB76A0 👑𝔔𝔲𝔢𝔢𝔫♥𝔒𝔣♥ℌ𝔢𝔞𝔯𝔱𝔰♥👑 got 572910 points
+#216: 518882 🌍ПРИЕМ В КЛАН!🌍 got 572570 points
+#217: 98C2D CATS =^.^= storage ship got 572103 points
+#218: B2969 ⚓factory3.2⚓ got 570513 points
+#219: 5F16 deep space ballers got 568456 points
+#220: D42F77 Craftsman | 🏛️ got 567690 points
+#221: 8629A1 A-B-C-YA!    p̶̛̦̥̼̺̎͑̚̕r̴͌̿̀o got 566502 points
+#222: 3C1F81 🧨🎃)+(🎃🧨 got 564504 points
+#223: 94E2FE boss segs ship got 561915 points
+#224: 0EFD8 🐅 Metal 🐅 got 561564 points
+#225: 9EDFB 🍺 I  Pog(V) got 561142 points
+#226: AAA0D1 The big one got 561071 points
+#227: 05CB9 The Glass House got 560711 points
+#228: 1ABB0C 1 got 560142 points
+#229: 90000 🦥Tea Pot X🦥 got 559280 points
+#230: 0183A7 Loot got 555804 points
+#231: A2B55 ☁Торговое судно☁ got 553933 points
+#232: 97E3CE order ship in motd got 553394 points
+#233: FC3E0 Matz . got 550924 points
+#234: BCD463 👻склад страника👻 got 550712 points
+#235: 1E3CF [STORM🌩]🌪️Tornado miner CM🐅🐠 got 549865 points
+#236: BB7BB2 😈 | Enterprise (CV-Points) | 😈 got 548445 points
+#237: 9ECC3D Heart Of The Swarm  got 547548 points
+#238: 958A9 foreg  got 547180 points
+#239: C279AF HR | ъуъ got 544311 points
+#240: 8D442 kys got 543826 points
+#241: F1C417 mats got 537434 points
+#242: C3A64 ESPLOSIVO got 533381 points
+#243: DBA8A A&W Storage (ⓈⓄⓍ) got 532231 points
+#244: F06FB1  ЯΣƧӨПΛПᄃΣด้้้้้็็็็็้้้้  got 530960 points
+#245: FA4955 ⌬ Plexus Central ⌬ got 529510 points
+#246: 566D64 Storage II got 528491 points
+#247: CCA00D   got 528144 points
+#248: 2B5862 Nova Industries MS got 527728 points
+#249: E9FB179 @COGG AUTOMATION KILLS THE GAME! got 525703 points
+#250: 93EF5A 👻Тайник Инь-Янь👻 got 524803 points
+#251: 515FB ⚜️Space X⚜️ got 523380 points
+#252: 31B13 Wish Upon Twin Stars  got 522885 points
+#253: 12AB9 🌽buying storage🌽 got 522440 points
+#254: FA0C4A ✰꧁𓊈༒༻⡷⠐ ♥[ ☁ ]♥⠐⢾༺༒𓊉꧂✰ got 520230 points
+#255: 58B87 🅰🅻🅼🅰🅲🅴🅽🅰🅼🅸🅴🅽🆃🅾 got 519039 points
+#256: 295BD0 Bloomfield got 517447 points
+#257: A5111 ᴛʜᴇ ꜱᴛᴏʀᴀɢᴇ ᴏꜰ ᴛʜᴇ ɢʀᴇᴀᴛ got 515958 points
+#258: F6A3BB 🦇§ † Ä R . ʙ ᴜ ᴄ ᴋ ꜱ -【﻿ＳＡＦ】 got 512381 points
+#259: 8FB93 ☆ 𝕿𝖍𝖊 𝕽𝖔𝖞𝖆𝖑 𝕼𝖚𝖊𝖊𝖓 got 512358 points
+#260: 1924DC LONG DONG's FORGE got 511677 points
+#261: 0E2C05B   🅰️ ТАКОВ ПУТЬ! [DRX] 🅰️ got 511216 points
+#262: EE9BC3 FLUX BANK got 510976 points
+#263: 64CB14 🐅𝕊𝕥𝕠𝕣𝕒𝕘𝕖🐅 got 507819 points
+#264: 0DA7D 📜𝕸𝖆𝖌𝖓𝖆 𝕮𝖆𝖗𝖙𝖆🏛️ got 507745 points
+#265: 37D92 Big Glock 1- SAF got 505747 points
+#266: 87555D SELLING EXPLO got 505432 points
+#267: 5F825 useless items  ͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩͩ got 499985 points
+#268: 9C840 🍀kotyaaaaaa's storage🧐💨 got 499539 points
+#269: 75233 GM Storage got 497868 points
+#270: 76920 Its called mats innit 💀💀 got 496772 points
+#271: 81F41B In Honor of CI got 495746 points
+#272: 857C8D 'Hickory Creek - SAF got 494823 points
+#273: DF4D8 Stripclub got 494755 points
+#274: 08A341 #QdtkqY max size storage got 491712 points
+#275: DF1640 👑ENTER RAFFLE FOR GS👑 got 491302 points
+#276: 406F77 astro | Me Scrappy  got 489954 points
+#277: E9EEE0 🚀Cosmology🌌 got 489934 points
+#278: BCF280 🅰🅽🅶🆁🆈 🅿🅴🅿🅴 👻 got 489768 points
+#279: 11C93 GGV| Склад got 487911 points
+#280: 827768 GGF RG got 487239 points
+#281: C7830 ≛ FED | 𝑷𝑰𝑵𝑵𝑨𝑪𝑳𝑬 ≛ got 486894 points
+#282: 194C0A The PlayGround (창-고) got 485007 points
+#283: CA1F6 🍉Melon Storage :D🍉 got 484043 points
+#284: 41A0E 🏛️🍀🛡️ 5haial🍀🛡️🏛️ got 483909 points
+#285: BAEA Dedicated And Friendly Crew got 483450 points
+#286: EDB85 Stay Pro got 481540 points
+#287: 327A0 🐅Black Quantum 🐅 got 480075 points
+#288: 78BA 😈 Mazin' Storage 😈 got 478555 points
+#289: BB678 КОТЕ got 478039 points
+#290: BECF02 N got 477586 points
+#291: 8ADFA SUS explosives got 477171 points
+#292: 801367 ee got 476669 points
+#293: 6AFBB Eylstadt got 476630 points
+#294: DE6C COGG!!!! COGG OMGGG!!!!!! got 474754 points
+#295: 6128C Storage (BUILDING SHIPS!) got 474501 points
+#296: 91753 Военный склад  got 474328 points
+#297: F4601D 💣bang bangs💣 got 473526 points
+#298: 2A348 Parkour School got 473085 points
+#299: 5508CA 𝓓𝓐𝓡𝓒𝓚 𝓢𝓣𝓞𝓡𝓐𝓖𝓔 ( l ) got 472205 points
+#300: 4DCA63 🔴| 🅽🅾 🆃🅾🆇🅸🅲# SR got 471360 points
+#301: 8FB449 🎋⚜️ Pandora's Box ⚜️🎋 got 470300 points
+#302: 31F98 ⌬Rheinmetall ARTEC⌬ got 468828 points
+#303: ED5B SMS Martial Eagle got 467708 points
+#304: 71785 🦀🦀 got 463950 points
+#305: 9995D slavik05  got 463449 points
+#306: B00989 Casa got 463279 points
+#307: AFC42 ᴇᴘɪᴄ, 💣, SAF ❤️ got 461143 points
+#308: 90DB [🍓] Crystal Heart ~ 🏛️ got 460703 points
+#309: 9DDBA6 🔰 NetherRealm II 🔰 got 459038 points
+#310: 968EB ≛ FED | Goblin Storage 1 ≛ got 457291 points
+#311: 39CEDA |The Collector|  [𝓩𝓦] got 457066 points
+#312: 877772 💜GrrBrr👻👽🐸🌍🪐♿🦷 got 456862 points
+#313: 69D6ED 🐬| 𝕵𝖚𝖘𝖙 𝕾𝖙𝖔𝖗𝖆𝖌𝖊⑤ got 456607 points
+#314: FDDCB9 doors suck got 456279 points
+#315: 2EE8EE5 Wҽ ɯιʅʅ ϝαʅʅ ιɳ ƚԋҽ ԋσʅҽ got 455502 points
+#316: 4F370 Turtlee's, Pred Mecha Storage got 453842 points
+#317: 893B2 ◮ USS Storage ship #2 ◮ got 452495 points
+#318: 894191 MoonLord got 451733 points
+#319: 8BA38 drago join got 451400 points
+#320: F47DD Eagle storage and Trade got 449030 points
+#321: 31AD0 almacen de holaaa got 446283 points
+#322: EFBBE Digital Reaper - SAF got 445248 points
+#323: 984A0C doors are p2w got 444675 points
+#324: 5953C7 [OG] 𝘕𝘝𝘟 𝘐𝘕𝘋𝘜𝘚𝘛𝘙𝘐𝘌𝘚 got 443512 points
+#325: 174D41 Склад got 442824 points
+#326: D1D2C2 Green Bot Storage got 442800 points
+#327: 6FD823 Storage got 441510 points
+#328: 538601 Matz got 441117 points
+#329: 84E1C2 ⚓Just an Outpost⚓  got 440960 points
+#330: F14688 9487 got 440416 points
+#331: 6A2C6 s0x| Loot Stuffs got 439922 points
+#332: 643551 no got 438974 points
+#333: 7BD6C ≛ FED | Mats4 🦓 got 436646 points
+#334: 49C779 Matz got 436460 points
+#335: AD75DE [ 🏛️] 匚ㄖ尺尺ㄩ卩ㄒ丨ㄖ几 got 436159 points
+#336: 6DFE91 Flux holder noobs got 436008 points
+#337: 39087 ✴That One Storage✴ got 434551 points
+#338: BCCC2A Storage 4 - FP3 got 433449 points
+#339: 1AAB World Trade Centre got 433297 points
+#340: 9AEF23 ᴄʟᴏᴜᴅ ᴄɪᴛʏ got 430065 points
+#341: 73485 𝙇𝙤𝙨𝙩 𝙋𝙖𝙧𝙖𝙙𝙞𝙨𝙚 got 429217 points
+#342: D5D64 Дупло SAF got 426674 points
+#343: EDB8B 👻Присоединяйтесь к RG👻 got 426610 points
+#344: 2DB6CF Devil storage 6_9 got 426551 points
+#345: C95CC お屋敷Ⅳ got 426379 points
+#346: F1434 👽 Storage | Stas12 👻 got 425498 points
+#347: DB3BD お屋敷２ got 425100 points
+#348: 62959 BT-7274 VANGARD TITAN  got 424713 points
+#349: 71AE3 ⚔️Storak⚔️ got 424293 points
+#350: CCC99 💚ᴄʏʙᴇʀᴛᴏɴ ɪɴᴅᴜsᴛʀɪᴇs💚 got 423626 points
+#351: 3E658FB Amazon Storage got 423320 points
+#352: 9A29B ⧼♛НЕМЕЦКАЯ ТИХАХОДКА♕⧽👻 got 423121 points
+#353: 57583A чинила пупсиков got 422652 points
+#354: 6C423 Merp Fortress #2 got 422421 points
+#355: 47AF2 🐅 Chrome ❤️ got 421507 points
+#356: 2ED7D2 🌑 Ｓｚａｂｉ９００＇ｓ Ｍａｔｓ got 420292 points
+#357: 9D1490 Free legacy: Dm me to claim got 420216 points
+#358: F4E8D Monica got 418797 points
+#359: CCE068 Звездная пыль на сапогах₊‧⁺˖ got 415312 points
+#360: 026CB Outpost Bravo - SAF got 414857 points
+#361: 94871 Tron got 414820 points
+#362: 26DB7 ☭ IC | Big Green Industrial | ☭ got 414238 points
+#363: C92635 Moon got 413885 points
+#364: DD341 nab storeg  got 413742 points
+#365: 3BEA8F 🏛️ Navis Rex 🏛️ got 412481 points
+#366: 37E64A 🐉 Dragons True storage 🐉 got 411770 points
+#367: E19FF 👑|Ｆｏｕｎｔａｉｎ Ｏｆ Ｙｏｕｔｈ got 411687 points
+#368: C0316 Mats got 408062 points
+#369: 21484 𝓥𝓘𝓧 | Ball strg - SAF got 407640 points
+#370: FEDD9 ⚜️Gopher Extra Balls⚜️ got 407320 points
+#371: 05815B9 🦀𝖆𝖚𝖌𝖚𝖘𝖙🦀 got 405871 points
+#372: 76355 mats 1 got 404879 points
+#373: C479D2 🐲Склад-Крафт_1🐲 got 403440 points
+#374: 50481 дайте железа и порох я бомж got 402617 points
+#375: 4F3C1E Мя4i-Palomeque got 402246 points
+#376: 7702A8 👑𝗢𝘂𝘁𝗽𝗼𝘀𝘁 𝟲𝟵👑 got 402204 points
+#377: C33B6B  ᴇᴘɪᴄ | big storage got 400923 points
+#378: B48EBC MATS 2 got 399436 points
+#379: 3B7121 Fishy Mat Storage #1 got 399177 points
+#380: 1C053 𝕰𝖓𝖛𝖎'𝖘 𝕱𝖔𝖗𝖌𝖊 - SAF got 396936 points
+#381: 7A8FC 𝕿𝖍𝖊 𝕮𝖆𝖑𝖑 𝖔𝖋 𝕮𝖙𝖍𝖚𝖑 got 396726 points
+#382: F5B847 ℝ𝔾|𝕊𝕡𝕒𝕤𝕚 𝕚 𝕤𝕠𝕙𝕣𝕒𝕟𝕚 got 396609 points
+#383: 793ECE 💣 Towies' Materials 1💣 got 396079 points
+#384: A67B8 storage  got 395843 points
+#385: 74844B 👑| Outpost Alpha |👑 got 395723 points
+#386: 4CED2 mats got 394742 points
+#387: CFC16 let him cook  got 394609 points
+#388: D4C31BD Подарок тото  got 394315 points
+#389: 6AE51 Storage🌑 got 394117 points
+#390: 4A507A 🗿 ป३ʅ۸Ɀ๏ש 🗿 🦕 ＣＡＲＧＯ ＳＨＩＰ 📦 got 392497 points
+#391: 30EDD M.U.T.O got 392316 points
+#392: FB654F 📎 YEET klan storage/shop 📎 got 392189 points
+#393: C91C96 お屋敷 got 390992 points
+#394: 01D9A JaWarrior Storage got 390765 points
+#395: 2D374 Another person storage:D got 388853 points
+#396: 1ED00 🎶King of HipHop🎶 got 388753 points
+#397: 066CDF 🐅сейф⚶волка🐅 got 388656 points
+#398: 5B9A1A 赽您基◂𝐒𝐀𝐅 got 387267 points
+#399: 23944B this shit needa be returned got 387218 points
+#400: 94F2B6 Im poor pease give me stuff I ha got 386747 points
+#401: 844A69 [⬛] 𝕶𝖎𝖓𝖌 𝕻𝖔𝖘𝖊𝖎𝖉𝖔𝖓 ₰ got 386602 points
+#402: 1CB7B 👻 storage 👻 got 386128 points
+#403: F6F83A Explosive Iron Smoothie got 385640 points
+#404: 341983 🏛️ Bands of Mourning 🏛️ got 383400 points
+#405: F35F17 👌😎 Дом РаянΛ got 382702 points
+#406: D74CA1 Lost Nova Distro got 381988 points
+#407: EFC3A1 просто склад got 380890 points
+#408: 8FB7DA arch mats 3 got 380587 points
+#409: 72BAC2 The Eye got 375509 points
+#410: 49C9CF 「OB」【Microsoft MKII】| ᴇᴘɪᴄ  got 375461 points
+#411: 967BF 🔁​ SKLAD EvilGod - 03 🔁 got 375436 points
+#412: FFF80D [🍀] Mats storage got 374893 points
+#413: ED554 afhvth got 374640 points
+#414: EC4862 Boredom got 374443 points
+#415: B2CE4 [team]team_factory got 373970 points
+#416: A781E0 Mats お屋敷Ⅲ 🐅 got 373788 points
+#417: 4309EF [🏛️] of the yes ⌬ got 371934 points
+#418: 70024 Cum Dumpster got 371626 points
+#419: 5CC65 ꧁乂✰Ⅾă𝐫ʞƬ℮𝐫𝔯𝚘ᵣίṧț✰乂꧂ got 371124 points
+#420: 03CA04 purpl3mo0n - SAF got 370647 points
+#421: 66E54 wtf ya got 370360 points
+#422: D71483 [ᗫ໊ձδ̖ຼʂ] Посредник got 370171 points
+#423: A7B357 ЧВК OM NOM got 370150 points
+#424: AB79F +782 got 369873 points
+#425: 8F9999 🏛️Tranquiline Halls 🍺 got 368567 points
+#426: 5843C 👻 Ship Repair Mk2 👻 got 367848 points
+#427: EC2F9 🎵Sailor🎵 got 367661 points
+#428: FBDEC4 👻👻 got 366214 points
+#429: 64752F ARK77  got 366196 points
+#430: 91843 BIG STORAGE ALEXANDRE got 365408 points
+#431: B55B0 Big Storage got 364936 points
+#432: BD48E its not slanted, you're slanted. got 364788 points
+#433: 588538 Valencia ❤️ got 363035 points
+#434: 5B2D9 🅰️АМХ 50 В МЕТ🅰️ got 362972 points
+#435: EAA88 Into The Abyss got 362555 points
+#436: A6749A nope got 361445 points
+#437: A2EF3 Deep Space Airships Ball Pit  got 360750 points
+#438: F3542 MATS STORAGE got 360744 points
+#439: D71B35 ☆ 𝑅𝑜𝓎𝒶𝓁 𝑀𝒶𝓉𝓈 got 359055 points
+#440: AAB050 🍻 Terror Of The Night 🍻 got 358730 points
+#441: A9B2F5 u thought i was feelin u?  got 358517 points
+#442: DD987D pov got 357920 points
+#443: FB02A9 bepis v2 got 357764 points
+#444: 6BF0D9 🎖 McDonald's🎖 got 357380 points
+#445: 99A17 🔥 MM - eimutis 🔥 got 356820 points
+#446: BBED95 	MRCAPTAINBRUH Noob got 355926 points
+#447: 34EE0 ≛ FED | Mats2🦓 got 354299 points
+#448: 3B56 Apocalypse Eternal {3B56}  got 353899 points
+#449: 93E3FD 🐅Reyna | trianglestorage ❤️ got 353751 points
+#450: ADDE2  The United Fleet-STORAGE 7 got 353073 points
+#451: 4260E DISASTER HQ 2 got 352494 points
+#452: 4432 🍦Dream Cream🍦 got 352288 points
+#453: D38256 PERSIA Mega Storage got 352177 points
+#454: FCF7D4 𝓡𝓸𝔂𝓪𝓵 𝓢𝓹𝓪𝓬𝓮 𝓑𝓪𝓼𝓮™  got 350728 points
+#455: 6C2D79 lol got 349727 points
+#456: 859E3 Gamble Industry got 349134 points
+#457: 6B7243 𝓔𝓆𝕦Ꭵn̶𝔬× 3 got 348734 points
+#458: 0F2DD 🌠 ᴄꜰ -savaş zamanı depo🌠 got 347864 points
+#459: 9DD3F3 Склад Котика got 347738 points
+#460: F498C ... got 347703 points
+#461: 5D637 🏛️ Ferrum Titan Obvium 🏛️ got 345411 points
+#462: 8B58D1 Valhalla❤️ got 343534 points
+#463: 2F46AE 🏛️Harbinger🏛️ got 343436 points
+#464: 7BF7CE | Heavy From TF 2| got 343198 points
+#465: 026C4D [🐸] Клан Разделитель got 341556 points
+#466: 230E67 Disaster HQ got 341214 points
+#467: 54EFC4 𝕿𝖍𝖊 𝕭𝖊𝖍𝖊𝖒𝖔𝖙𝖍 got 341168 points
+#468: CC9FCB SAF | Çðrêllïåñ §hïþ¥årÐ 💢 got 340340 points
+#469: 58AD25 [SFTC] Ⓓⓤⓝⓚⓘⓡⓚ got 340245 points
+#470: 29AF4 ⚪アイスクリーム⚪ got 339351 points
+#471: 46CAF Distrubution/recycler got 339063 points
+#472: 7CA060 🏛 🎀  𝒟𝑒𝒶𝓉𝒽 𝓈𝒽❤𝓉  🎀 🏛 got 338779 points
+#473: 2D7A 🌓DarkFox🦊Club Penguin Online got 338678 points
+#474: 895C5C    几   乇   乃   ㄩ   ㄥ   卂   got 338283 points
+#475: 24961F7 🔰 NetherRealm III 🔰 got 338012 points
+#476: E634A ................................ got 337682 points
+#477: B87687 𝕾𝕬𝕱 - 𝖂𝖍𝖎𝖙𝖊 𝕸𝖔𝕺𝖓  🖤 got 337498 points
+#478: 454AAB Text Label Here got 336870 points
+#479: 287A4 Ковш с мячиками  got 336870 points
+#480: 4ADA0 🏴‍☠️|Kiwi got 336146 points
+#481: 73985 {👑} Mats For Days  got 335878 points
+#482: 8FF35B Sloth Mats  got 334656 points
+#483: EF212E STRG - SAF got 333636 points
+#484: 62372 ᴇᴘɪᴄ | Death Star got 333457 points
+#485: 16ADE Willy Wonka's Chocolate Factory got 333432 points
+#486: 9626C 👻Руслан🐍👻 got 332487 points
+#487: 960F4A SHARK LIKES MAN got 331564 points
+#488: 224758 Chess strg (DT) got 331537 points
+#489: 9959B6 Dred v2 - SAF got 331526 points
+#490: 8436B ᴇᴘɪᴄ | prljav's recycler got 330105 points
+#491: DE4D9 🌓 Geneva - SAF got 329003 points
+#492: 535E6 Da_BruMaran got 328710 points
+#493: 395F5 𝘗𝘶𝘳𝘰'𝘴 𝘔𝘢𝘵𝘴 got 328573 points
+#494: C6000 Aυɠυʂƚυʂ [§] got 327163 points
+#495: 64CF2 🦀Blank Mats{ᙠ}🦀 got 326747 points
+#496: EECABB печаль 1 :( got 326049 points
+#497: F00795 🌍Харнилище RDC и сканеров got 325640 points
+#498: 05B43A 𝔡𝔯𝔞𝔤𝔬𝔫 got 325334 points
+#499: E846AD 1nip's storage got 325309 points
+#500: 9CA0A6 mat storage 300 got 325150 points
